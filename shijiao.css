@@ -1,0 +1,325 @@
+body{
+  background-color: black;
+}
+*{
+  margin:0px auto;
+  padding: 0px;
+}
+.total{width: 1024px;
+  margin:0px auto;
+  padding: 0px;
+
+}
+
+
+.toppicture{
+  width:1024px;
+  height:900px;
+  margin:0px auto;
+  position:relative;
+
+}
+.intruduction{
+
+  width:1024px;
+  height:500px;
+  margin:0px auto;
+  position:static;
+  text-indent: 2em;
+
+}
+p{
+  font-size: 13px;
+  text-indent:2em;
+  color: #999999;
+}
+#qianyan{
+  width:800px;
+  height:300px;
+  top:200px;
+  margin:0px auto;
+  font-size:13px;
+  color: #999999;
+  text-indent:2em;
+  letter-spacing:6px;
+  line-height:28px;
+
+}
+
+.zengzhang{
+  width: 1024px;
+  height: 450px;
+  position:relative;
+
+}
+
+#main1{
+   position:relative;
+   width:600px;
+   left:50px;
+
+ }
+.wenben1 {
+  font-size: 13px;
+  text-indent:2em;
+  letter-spacing:1px;
+  line-height:23px;
+  color: lightgrey;
+  position:relative;
+  left:200px;
+  width:500px;
+  height: 100px;
+
+}
+
+.zengzhangbili{
+  width: 1024px;
+  height: 500px;
+  position:relative;
+
+
+}
+
+#main2{
+  position:relative;
+  width:800px;
+  height:300px;
+  margin: auto;
+
+
+}
+.zhimangyuanyin{
+  width: 1024px;
+  height: 400px;
+  margin:0px auto;
+  position:relative;
+
+}
+.wenben7 {
+  font-size: 13px;
+  text-indent:2em;
+  letter-spacing:1px;
+  line-height:23px;color: #999999;color: #e3e3e3;
+  position:relative;
+  width:500px;
+  margin: auto;
+  height: 100px;}
+
+#zhimanglist{
+  margin: auto;
+  position: relative;
+  float: inside;
+  width:700px;
+  height:400px
+  ;
+  left:50px;
+}
+
+
+.chuxing{
+  width: 1024px;
+  height: 950px;
+  position:static;
+  margin: auto;
+
+
+
+}
+.wenben2 {
+  font-size: 13px;
+  text-indent: 2em;
+  letter-spacing: 1px;
+  line-height: 23px;
+  color: #e3e3e3;
+  margin: auto;
+  position: relative;
+  left: 200px;
+  buttom:300px;
+  width: 700px;
+  height: 400px;
+}
+.education{
+  width: 1024px;
+  height: 1300px;
+  margin: auto;
+  position:relative;
+
+
+
+
+}
+
+#educationinside{
+  width:600px;
+  height: 100%;
+  margin:auto;
+  position:relative;
+  left:250px;
+}
+
+#main6{
+  position:relative;
+  width:100%;
+  height:30%;
+  float: left;
+
+}
+.wenben3 {
+  font-size: 13px;
+  text-indent: 2em;
+  letter-spacing: 1px;
+  line-height: 23px;
+  color: lightgrey;
+  position: relative;
+  float: right;
+  width: 100%;
+  height: 70%;
+
+}
+.jiaohu{
+  width: 1024px;
+  height: 900px;
+  position:relative;
+
+
+
+}
+#main{
+  position:relative;
+  width:1020px;
+  float: top;
+}
+.wenben6 {
+  font-size: 13px;
+  text-indent: 2em;
+  letter-spacing: 1px;
+  line-height: 23px;
+  color: lightgrey;
+  position: relative;
+  float: bottom;
+  align-content: center;
+  width: 80%;
+  left:200px;
+
+
+}
+.wenben8 {
+  font-size: 13px;
+  text-indent: 2em;
+  letter-spacing: 1px;
+  line-height: 23px;
+  color: lightgrey;
+  position: relative;
+  float: bottom;
+  align-content: center;
+  height:300px;
+  width: 700px;
+  margin: auto;
+
+
+}
+.sheshiduibi{
+  width: 1024px;
+  height: 600px;
+  position:relative;
+  left: 200px;
+
+}
+.jiuye{
+  width: 1200px;
+  height: 700px;
+  position:relative;
+  margin: auto;
+
+}
+.wenben4 {
+  font-size: 13px;
+  text-indent: 2em;
+  letter-spacing: 1px;
+  line-height: 23px;
+  color: lightgrey;
+  position: relative;
+  float: left;
+  width: 500px;
+  height: 100%;
+}
+
+#main4{
+  position:relative;
+  width: 700px;
+  float: right;
+
+}
+
+.stereotype {
+  width: 1024px;
+  height: 700px;
+  position: relative;
+
+}
+
+#main10{
+  position:relative;
+  width: 500px;
+  margin: auto;
+  top: 300px;
+}
+.jiuyejineng{
+  width: 1024px;
+  height: 400px;
+  position:relative;
+  left: 200px;
+
+}
+.culture{
+  width: 1024px;
+  height: 500px;
+  position:relative;
+
+
+}
+
+#main5{
+   position:relative;
+   width:50%;
+   float:left;
+ }
+.wenben5 {
+  font-size: 13px;
+  text-indent: 2em;
+  letter-spacing: 1px;
+  line-height: 23px;
+  color: lightgrey;
+  position: relative;
+  float: right;
+  width: 50%;
+  height: 100%;
+}
+.seruo{
+  width: 1024px;
+  height: 400px;
+  position:relative;
+
+
+}
+.qingguangyan{
+  width: 1024px;
+  height: 700px;
+  position:relative;
+  margin:0px auto;
+  padding: auto;
+}
+
+
+.box{ width:700px; height: 200px; margin:100px auto; overflow: hidden;
+  position: relative;
+background-color: #0d99a5;}
+.box div{ width: 10%;  float: left; transition: all 1s;}
+.box div img{  width: 600px; cursor: pointer;}
+.box:hover div{ width: 5%; }
+.box div:hover{ width: 55%; }
+
+#laoyeye{
+  position:relative;
+  left: 200px;
+}
